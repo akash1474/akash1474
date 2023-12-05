@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akash1474
-- 👀 I’m interested in Computer
-- 🌱 I’m currently matering Web Development
-- 💞️ I’m looking to collaborate on Web Projects
+- 👀 I’m interested in C/C++ Development
+- 🌱 I’m currently matering C++ Windows Application Development
+- 💞️ I’m looking to collaborate on Web Projects/C++ Projects
 - 📫 Email me at panditakash38@gmail.com
 
 <!---
